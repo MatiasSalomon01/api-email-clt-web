@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Hj+uEOeMXCOpEKCkXWBpavlqJLrx3AcFl755DvVqvBU=",
+  "Source": "api-email-clt-web",
+  "BasePath": "_content/api-email-clt-web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

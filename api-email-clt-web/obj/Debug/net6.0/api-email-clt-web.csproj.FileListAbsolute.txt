@@ -1,0 +1,70 @@
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\appsettings.json
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\api-email-clt-web.exe
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\api-email-clt-web.deps.json
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\api-email-clt-web.runtimeconfig.json
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\api-email-clt-web.dll
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\api-email-clt-web.pdb
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\MailKit.dll
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\MimeKit.dll
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.csproj.AssemblyReference.cache
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.AssemblyInfoInputs.cache
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.AssemblyInfo.cs
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.csproj.CoreCompileInputs.cache
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets\msbuild.api-email-clt-web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets\msbuild.build.api-email-clt-web.props
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api-email-clt-web.props
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api-email-clt-web.props
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\scopedcss\bundle\api-email-clt-web.styles.css
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.csproj.CopyComplete
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.dll
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\refint\api-email-clt-web.dll
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.pdb
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.genruntimeconfig.cache
+C:\Users\msalomon\Documents\Pruebas\Pruebas C#\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\ref\api-email-clt-web.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\appsettings.json
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\api-email-clt-web.exe
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\api-email-clt-web.deps.json
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\api-email-clt-web.runtimeconfig.json
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\api-email-clt-web.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\api-email-clt-web.pdb
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\MailKit.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\MimeKit.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.csproj.AssemblyReference.cache
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.AssemblyInfoInputs.cache
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.AssemblyInfo.cs
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.csproj.CoreCompileInputs.cache
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets\msbuild.api-email-clt-web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets\msbuild.build.api-email-clt-web.props
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api-email-clt-web.props
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api-email-clt-web.props
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\scopedcss\bundle\api-email-clt-web.styles.css
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.csproj.CopyComplete
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\refint\api-email-clt-web.dll
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.pdb
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\api-email-clt-web.genruntimeconfig.cache
+C:\Users\fvillalba\dev\api-email-clt-web\api-email-clt-web\obj\Debug\net6.0\ref\api-email-clt-web.dll
