@@ -554,24 +554,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\msalomon\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\fvillalba\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msalomon\\Documents\\api-email-clt-web\\api-email-clt-web\\api-email-clt-web.csproj",
+      "projectUniqueName": "C:\\Users\\fvillalba\\dev\\api-email-clt-web\\api-email-clt-web\\api-email-clt-web.csproj",
       "projectName": "api-email-clt-web",
-      "projectPath": "C:\\Users\\msalomon\\Documents\\api-email-clt-web\\api-email-clt-web\\api-email-clt-web.csproj",
-      "packagesPath": "C:\\Users\\msalomon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msalomon\\Documents\\api-email-clt-web\\api-email-clt-web\\obj\\",
+      "projectPath": "C:\\Users\\fvillalba\\dev\\api-email-clt-web\\api-email-clt-web\\api-email-clt-web.csproj",
+      "packagesPath": "C:\\Users\\fvillalba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fvillalba\\dev\\api-email-clt-web\\api-email-clt-web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\msalomon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\fvillalba\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -625,7 +620,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

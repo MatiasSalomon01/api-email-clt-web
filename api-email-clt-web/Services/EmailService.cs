@@ -12,7 +12,7 @@ namespace api_email_clt_web.Services
         public async Task<IActionResult> SendEmail(string fullname, string emailTo, IFormFile file)
         {
             var email = new MimeMessage();
-            email.From.Add(MailboxAddress.Parse("pg9609631@outlook.com.ar"));
+            email.From.Add(MailboxAddress.Parse("prueba-web-04@outlook.es"));
             email.To.Add(MailboxAddress.Parse(emailTo));
             email.Subject = "Vacancia CLT - " + fullname;
             var builder = new BodyBuilder();
@@ -25,7 +25,7 @@ namespace api_email_clt_web.Services
             email.Body = builder.ToMessageBody();
             using var smtp = new MailKit.Net.Smtp.SmtpClient();
             smtp.Connect("smtp.office365.com", 587, SecureSocketOptions.StartTls);
-            smtp.Authenticate("pg9609631@outlook.com.ar", "_._12345678");
+            smtp.Authenticate("prueba-web-04@outlook.es", "_._12345678");
             smtp.Send(email);
             smtp.Disconnect(true);
 
@@ -34,7 +34,7 @@ namespace api_email_clt_web.Services
         public IActionResult SendContactMessage(string emailTo, ContactMessage message)
         {
             var email = new MimeMessage();
-            email.From.Add(MailboxAddress.Parse("pg9609631@outlook.com.ar"));
+            email.From.Add(MailboxAddress.Parse("prueba-web-04@outlook.es"));
             email.To.Add(MailboxAddress.Parse(emailTo));
             email.Subject = "Contactos - Mensaje - " + message.fullname;
             email.Body = new TextPart(MimeKit.Text.TextFormat.Html)
@@ -51,7 +51,7 @@ namespace api_email_clt_web.Services
 
             using var smtp = new MailKit.Net.Smtp.SmtpClient();
             smtp.Connect("smtp.office365.com", 587, SecureSocketOptions.StartTls);
-            smtp.Authenticate("pg9609631@outlook.com.ar", "_._12345678");
+            smtp.Authenticate("prueba-web-04@outlook.es", "_._12345678");
             smtp.Send(email);
             smtp.Disconnect(true);
 
