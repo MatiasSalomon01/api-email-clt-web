@@ -19,16 +19,16 @@ namespace api_email_clt_web.Controllers
 
 
         [HttpPost("send-email")]
-        public async Task<IActionResult> SendEmail(string fullname, IFormFile file)
+        public async Task<IActionResult> SendEmail(string fullname, string emailTo, IFormFile file)
         {
-            var result = await _services.SendEmail(fullname, file);
+            var result = await _services.SendEmail(fullname, emailTo, file);
             return result;
         }
 
         [HttpPost("send-contact-message-email")]
-        public IActionResult SendContactMessage(ContactMessage message)
+        public IActionResult SendContactMessage(string emailTo, ContactMessage message)
         {
-            var result = _services.SendContactMessage(message);
+            var result = _services.SendContactMessage(emailTo, message);
             return result;
         }
     }

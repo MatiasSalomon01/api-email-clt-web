@@ -5,7 +5,7 @@ namespace api_email_clt_web.Interfaces
 {
     public interface IEmailService
     {
-        Task<IActionResult> SendEmail(string fullname, IFormFile file);
-        IActionResult SendContactMessage(ContactMessage message);
+        Task<IActionResult> SendEmail(string fullname, string emailTo, IFormFile file);
+        IActionResult SendContactMessage(string emailTo, ContactMessage message);
     }
 }

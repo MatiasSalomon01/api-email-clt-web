@@ -9,11 +9,11 @@ namespace api_email_clt_web.Services
     public class EmailService : IEmailService
     {
 
-        public async Task<IActionResult> SendEmail(string fullname, IFormFile file)
+        public async Task<IActionResult> SendEmail(string fullname, string emailTo, IFormFile file)
         {
             var email = new MimeMessage();
             email.From.Add(MailboxAddress.Parse("pg9609631@outlook.com.ar"));
-            email.To.Add(MailboxAddress.Parse("fernando.villalba@clt.com.py"));
+            email.To.Add(MailboxAddress.Parse(emailTo));
             email.Subject = "Vacancia CLT - " + fullname;
             var builder = new BodyBuilder();
             using (MemoryStream memoryStream = new MemoryStream())
@@ -31,11 +31,11 @@ namespace api_email_clt_web.Services
 
             return new OkResult();
         }
-        public IActionResult SendContactMessage(ContactMessage message)
+        public IActionResult SendContactMessage(string emailTo, ContactMessage message)
         {
             var email = new MimeMessage();
             email.From.Add(MailboxAddress.Parse("pg9609631@outlook.com.ar"));
-            email.To.Add(MailboxAddress.Parse("fernando.villalba@clt.com.py"));
+            email.To.Add(MailboxAddress.Parse(emailTo));
             email.Subject = "Contactos - Mensaje - " + message.fullname;
             email.Body = new TextPart(MimeKit.Text.TextFormat.Html)
             {
