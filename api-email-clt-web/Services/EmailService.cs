@@ -35,7 +35,7 @@ namespace api_email_clt_web.Services
         {
             var email = new MimeMessage();
             email.From.Add(MailboxAddress.Parse("pg9609631@outlook.com.ar"));
-            email.To.Add(MailboxAddress.Parse("21fervillalbag@gmail.com"));
+            email.To.Add(MailboxAddress.Parse("fernando.villalba@clt.com.py"));
             email.Subject = "Contactos - Mensaje - " + message.fullname;
             email.Body = new TextPart(MimeKit.Text.TextFormat.Html)
             {
