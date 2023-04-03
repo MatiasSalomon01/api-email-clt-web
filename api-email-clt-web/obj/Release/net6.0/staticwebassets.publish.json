@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ROjGVEi9gLcYuQ20Nrcr6bgCvCF+1EYgJjz4vvup9s0=",
+  "Source": "api-email-clt-web",
+  "BasePath": "_content/api-email-clt-web",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

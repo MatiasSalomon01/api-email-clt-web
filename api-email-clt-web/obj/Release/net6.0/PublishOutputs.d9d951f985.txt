@@ -1,0 +1,14 @@
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\api-email-clt-web.exe
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\api-email-clt-web.dll
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\api-email-clt-web.deps.json
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\api-email-clt-web.runtimeconfig.json
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\api-email-clt-web.pdb
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\MailKit.dll
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\MimeKit.dll
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\BouncyCastle.Crypto.dll
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\msalomon\Documents\api-email-clt-web\api-email-clt-web\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
